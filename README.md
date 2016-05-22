@@ -13,4 +13,5 @@ chmod +x rails.sh
 * Add zsh and tmux
 * Add Ember
 * Add PhantomJS
-* Add ruby-api* Add git configuration
+* Add ruby-api
+* Add git configuration
