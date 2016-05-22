@@ -1,6 +1,7 @@
 #!/bin/bash
 
-# This script will install Ruby on Rails v 2.3.1 and all its dependencies
+
+# This script will install Ruby v 2.3.1 and all of its dependencies and Rails v 4.2.6
 # Based on directions from http://gorails.com/setup/ubuntu/16.04
 
 # Set env vars for notification colors
