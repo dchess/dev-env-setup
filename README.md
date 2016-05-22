@@ -15,3 +15,4 @@ chmod +x rails.sh
 * Add PhantomJS
 * Add ruby-api
 * Add git configuration
+* Add Chrome
