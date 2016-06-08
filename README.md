@@ -5,6 +5,7 @@ Grant execute permissions on these files:
 
 ```bash
 chmod +x rails.sh
+chmod +x git.sh
 ```
 
 ## TODO
@@ -14,5 +15,4 @@ chmod +x rails.sh
 * Add Ember
 * Add PhantomJS
 * Add ruby-api
-* Add git configuration
 * Add Chrome
