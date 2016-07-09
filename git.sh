@@ -1,6 +1,6 @@
 #!/bin/bash
 
-sudo apt-get updare
+sudo apt-get update
 sudo apt-get install git
 
 name="$1"
