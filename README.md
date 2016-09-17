@@ -6,13 +6,5 @@ Grant execute permissions on these files:
 ```bash
 chmod +x rails.sh
 chmod +x git.sh
+chmod +x vim.sh
 ```
-
-## TODO
-* Add install directions
-* Add VIM configuration
-* Add zsh and tmux
-* Add Ember
-* Add PhantomJS
-* Add ruby-api
-* Add Chrome
