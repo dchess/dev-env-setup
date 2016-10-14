@@ -32,9 +32,9 @@ printf "${YELLOW}Install NodeJS\n${NC}"
 curl -sL https://deb.nodesource.com/setup_4.x | sudo -E bash -
 sudo apt-get install -y nodejs
 
-# Install Rails v 4.2.6
+# Install Rails v 5.x 
 printf "${YELLOW}Install Rails\n${NC}"
-gem install rails -v 4.2.6 --no-document
+gem install rails --no-document
 
 # Check versions
 printf "${YELLOW}Check versions installed\n${NC}"
