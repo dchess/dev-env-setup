@@ -1,5 +1,8 @@
 #!/bin/bash
 
+# Update system
+sudo apt-get update
+
 # Install and configure VIM
 ./vim.sh
 
@@ -11,13 +14,12 @@
 
 # Install Heroku Toolbelt
 wget -O- https://toolbelt.heroku.com/install-ubuntu.sh | sh
+heroku --version
 
 # Install postgres database
 ./postgres.sh
+psql --version
 
 # Overwrite bash config
 cp -f .bashrc ~/.bashrc
-echo "Environment is now configured for user"
-
-. ~/.bashrc
-reset
+source ~/.bashrc
