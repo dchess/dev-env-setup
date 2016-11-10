@@ -25,5 +25,6 @@ This will install the following (in order):
 - overwrite  vimrc and set terminal colorscheme
 - add git config and aliases
 - ruby, rails, and nodeJS
+- heroku toolbelt
 - postgres
 - overwrite bashrc
