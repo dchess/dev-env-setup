@@ -1,10 +1,9 @@
 #!/bin/bash
 
-sudo apt-get update
-sudo apt-get install git
-
-name="$1"
-email="$2"
+echo "Enter your git username:"
+read name
+echo "Enter your git email:"
+read email
 
 git config --global core.editor "vim"
 git config --global user.name $name
