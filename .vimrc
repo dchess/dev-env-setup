@@ -21,6 +21,7 @@ Plugin 'tmhedberg/SimpylFold'
 Plugin 'vim-scripts/indentpython.vim'
 Plugin 'vim-syntastic/syntastic'
 Plugin 'nvie/vim-flake8'
+Bundle 'Valloric/YouCompleteMe'
 colorscheme srcery 
 
 " All of your Plugins must be added before the following line
