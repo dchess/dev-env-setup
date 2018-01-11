@@ -14,6 +14,11 @@ git clone https://github.com/VundleVim/Vundle.vim.git ~/.vim/bundle/Vundle.vim
 # -NERDTree
 # -NERDCommenter
 # -CtrlP
+# -SimplyFold
+# -IndentPython
+# -Syntastic
+# -Vim-Flake8
+# -YouCompleteMe
 # -Vim ColorSchemes (with srcery installed by default)
 cp -f .vimrc ~/.vimrc
 
