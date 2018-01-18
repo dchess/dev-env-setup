@@ -24,7 +24,6 @@ This will install the following (in order):
 - VIM (with NERDTree, NERDCommenter, CtrlP, and Vim ColorSchemes)
 - overwrite  vimrc and set terminal colorscheme
 - add git config and aliases
-- ruby, rails, and nodeJS
 - heroku toolbelt
 - postgres
 - overwrite bashrc
