@@ -32,3 +32,6 @@ cp -R ./vimcolors/. ~/.vim/colors/
 # Vundle Install all plugins
 # If that fails, open vim and run :PluginInstall
 vim +PluginInstall +qall
+
+# Compile YCM without support for C-family languages
+~/.vim/bundle/YouCompleteMe/install.py
